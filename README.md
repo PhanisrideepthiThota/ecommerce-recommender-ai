@@ -1,2 +1,2 @@
-# ecommerce-recommender-ai
+# Ecommerce-recommender-ai
 AI Recommendation System Internship Project
